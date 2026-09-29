@@ -1,6 +1,5 @@
-# AI-Civil-Designer
-AI Civil Designer helps anyone plan homes, bridges, and roads. Enter materials and budget to get instant cost estimation, design suggestions, and blueprint previews. Simple, fast, universal tool.
 # AI Civil Designer – Smart Planning for Homes, Bridges & Roads
+
 ## Overview
 AI Civil Designer is an AI-powered civil engineering tool that helps users plan, estimate, and visualize construction projects instantly. It is designed for engineers, contractors, students, and common people. By selecting a project type (Home, Bridge, Road, or Other), entering material quantities and budget, users can get cost estimation, design suggestions, and blueprint previews in seconds.
 
@@ -27,6 +26,17 @@ AI Civil Designer is an AI-powered civil engineering tool that helps users plan,
 3. Click **Generate Designs**.  
 4. Instantly view cost estimation and design suggestions.  
 
+## Screenshots
+![Homepage](screenshots/homepage.png)  
+![Result Page](screenshots/result.png)  
+
+*(Replace with your actual screenshots)*
+
+## Live Demo
+[Click here to try AI Civil Designer](https://USERNAME.github.io/AI-Civil-Designer/)  
+
+*(Replace USERNAME with your GitHub username)*
+
 ## Why It Matters
 Civil projects often require expert knowledge and time. This tool democratizes design and planning by making it accessible to everyone. It empowers users to explore different options, understand costs, and make informed decisions quickly.
 
@@ -35,3 +45,6 @@ Civil projects often require expert knowledge and time. This tool democratizes d
 - Machine learning models for smarter predictions  
 - Cloud deployment for universal access  
 
+## Credits
+Developed by **Ajay Gupta**  
+Hitkarini College of Engineering and Technology, Jabalpur
