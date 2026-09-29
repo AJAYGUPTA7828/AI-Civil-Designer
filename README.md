@@ -24,11 +24,7 @@ AI Civil Designer is an AI-powered civil engineering tool that helps users plan,
 1. Select project type (Home/Bridge/Road/Other).  
 2. Enter cement, steel, bricks, and budget.  
 3. Click **Generate Designs**.  
-4. Instantly view cost estimation and design suggestions.  
-
-## Screenshots
-![Homepage](![Uploading BCO.b5e1d151-7058-4be7-88d9-073ad75d206b.png…]()
-)
+4. Instantly view cost estimation and design suggestions.
 
 
 ## Why It Matters
