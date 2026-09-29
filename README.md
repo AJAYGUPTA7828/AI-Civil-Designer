@@ -27,7 +27,7 @@ AI Civil Designer is an AI-powered civil engineering tool that helps users plan,
 4. Instantly view cost estimation and design suggestions.
 
 ## Live Demo
-[Click here to try AI Civil Designer](https://ajaygupta7228.github.io/AI-Civil-Designer/)
+[Click here to try AI Civil Designer](https://ajaygupta7828.github.io/AI-Civil-Designer/)
 
 ## Why It Matters
 Civil projects often require expert knowledge and time. This tool democratizes design and planning by making it accessible to everyone. It empowers users to explore different options, understand costs, and make informed decisions quickly.
